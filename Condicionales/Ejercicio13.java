@@ -1,3 +1,4 @@
+package Condicionales;
 public class Ejercicio13 {
     public void ejercicio13(){
         int num = 1;

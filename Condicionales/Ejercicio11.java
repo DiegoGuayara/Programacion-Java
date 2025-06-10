@@ -1,3 +1,4 @@
+package Condicionales;
 public class Ejercicio11 {
     public void ejercicio11(){
         int dado1 = (int) (Math.random() * 6) + 1;
