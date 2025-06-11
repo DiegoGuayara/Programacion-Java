@@ -11,7 +11,22 @@ public class Ciclos {
         // Ejercicio3 ejercicio3 = new Ejercicio3();
         // ejercicio3.ejercicio3();
 
-        Ejercicio4 ejercicio4 = new Ejercicio4();
-        ejercicio4.ejercicio4F2();
+        // Ejercicio4 ejercicio4 = new Ejercicio4();
+        // ejercicio4.ejercicio4F1();
+
+        // Ejercicio4 ejercicio4 = new Ejercicio4();
+        // ejercicio4.ejercicio4F2();
+
+        // Ejercicio5 ejercicio5 = new Ejercicio5();
+        // ejercicio5.ejercicio5();
+
+        // Ejercicio6 ejercicio6 = new Ejercicio6();
+        // ejercicio6.ejercicio6();
+
+        // Ejercicio7 ejercicio7 = new Ejercicio7();
+        // ejercicio7.ejercicio7();
+
+        Ejercicio8 ejercicio8 = new Ejercicio8();
+        ejercicio8.ejercicio8();
     }
 }
