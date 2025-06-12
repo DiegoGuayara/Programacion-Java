@@ -26,7 +26,16 @@ public class Ciclos {
         // Ejercicio7 ejercicio7 = new Ejercicio7();
         // ejercicio7.ejercicio7();
 
-        Ejercicio8 ejercicio8 = new Ejercicio8();
-        ejercicio8.ejercicio8();
+        // Ejercicio8 ejercicio8 = new Ejercicio8();
+        // ejercicio8.ejercicio8();
+
+        // Ejercicio9 ejercicio9 = new Ejercicio9();
+        // ejercicio9.ejercicio9();
+
+        // Ejercicio10 ejercicio10 = new Ejercicio10();
+        // ejercicio10.ejercicio10();
+
+        Ejercicio11 ejercicio11 = new Ejercicio11();
+        ejercicio11.ejercicio11();
     }
 }

@@ -3,15 +3,15 @@ package Ciclos;
 import java.util.Scanner;
 
 public class Ejercicio4 {
-    //forma 1
+    // forma 1
     Scanner sc = new Scanner(System.in);
 
-    public void ejercicio4F1(){
+    public void ejercicio4F1() {
 
         System.out.println("Ingrese cuantos estudiantes va a calificar: ");
         int est = sc.nextInt();
 
-        for(int i = 1; i <= est; i++){
+        for (int i = 1; i <= est; i++) {
             System.out.printf("Nota 1 del estudiante %d: ", i);
             double calificacion1 = sc.nextDouble();
 
@@ -26,14 +26,14 @@ public class Ejercicio4 {
         }
     }
 
-    //forma 2
-    public void ejercicio4F2(){
+    // forma 2
+    public void ejercicio4F2() {
         double[] calificaciones = new double[3];
 
         System.out.println("Ingrese cuantos estudiantes va a calificar: ");
         int est = sc.nextInt();
 
-        for(int i = 1; i <= est; i++){
+        for (int i = 1; i <= est; i++) {
             System.out.printf("Ingrese la nota 1 del estudiante %d: ", i);
             calificaciones[0] = sc.nextDouble();
 
